@@ -34,7 +34,7 @@ Para implementar o operador **AND**, usamos:
 | 1 | 0 | \( (1 X 1) + (1 X 0) + (-1.5) = -0.5 \) | **0** |
 | 1 | 1 | \( (1 X 1) + (1 X 1) + (-1.5) = 0.5 \) | **1** |
 
-### **4️⃣ Tabela-Verdade do AND**
+### **Tabela-Verdade do AND**
 
 | x_1  |  x_2 | **AND (Saída)** |
 |---|---|---|
